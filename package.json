@@ -2,5 +2,8 @@
     "main": "index.js",
     "scripts": {
         "start": "micro"
+    },
+    "dependencies": {
+        "micro": "^9.3.3"
     }
 }
